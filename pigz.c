@@ -3,6 +3,8 @@
  * Version 2.4  26 Dec 2017  Mark Adler
  */
 
+///  TEST
+
 /*
   This software is provided 'as-is', without any express or implied
   warranty. In no event will the author be held liable for any damages
