@@ -5,6 +5,6 @@
 }, 
 {
   "vendor" : "madler",
-  "component":"zlib"
+  "component" : "zlib"
 }
 ]
