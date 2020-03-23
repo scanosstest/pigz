@@ -1,3 +1,10 @@
 [
-{ "component" : "pigz" }, {"component":"zlib"}
+{ 
+  "vendor: "madler",
+  "component" : "pigz"
+}, 
+{
+  "vendor: "madler",
+  "component":"zlib"
+}
 ]
